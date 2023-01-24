@@ -1,4 +1,4 @@
-# Christian Lira's program / last edited: June 2022
+# Christian Lira's program / last Revised: June 2022
 # Mad Libs are a type of funny story, where a person is asked for words without knowing their context. The words are then placed into a story in a pre-determined format, often resulting in funny statements.
 length = input("Write a length of time (exmp: '12 hrs', '20 mn', '3 Days', etc)")
 place = input("Write a random place (use articles such as: 'a','an' or 'the')")
