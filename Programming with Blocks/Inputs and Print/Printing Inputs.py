@@ -1,3 +1,4 @@
+#Fall 2021 - last revised winter 2023 / Christian Lira
 # 1. This is a basic program that ask the user certain information about him/her This information can be used in different ways, it can also be stored in a database and later displayed with different purposes. I did not programmed this store any information so feel free to answer these questions!
 # 2. The following is a simple design of a questionnaire with simple questions such as "What is your...". In the questionnaire i added justifying questions like "Why..." where the user justifies his/her previous answer.
 name = input("What is your First Name?")
