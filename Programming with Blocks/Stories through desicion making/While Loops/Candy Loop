@@ -1,0 +1,7 @@
+# winter 2023 - Christian Lira 
+# this program asks for an specific input "yes" when the input is placed the program returns a print. 
+while True:
+    candy = input("Can I have a piece of candy? ")
+    if candy.lower() == "yes":
+        print("Thank you.")
+        break
