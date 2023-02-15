@@ -1,3 +1,5 @@
+# Winter 2023 - Christian Lira
+# Mad Libs are a type of funny story, where a person is asked for words without knowing their context. The words are then placed into a story in a pre-determined format, often resulting in funny statements.
 age = input("Write an age -years old-")
 MusicArtist = input("write your favorite music artist")
 food = input("write your favorite food")
