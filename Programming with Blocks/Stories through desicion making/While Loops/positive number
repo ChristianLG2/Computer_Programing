@@ -1,0 +1,7 @@
+# winter 2023 - Christian Lira 
+# this program asks for a positive number and until any value above 0 is enetered the program loops and repeats the same requirement. When a positive value is enetered the progam breaks and prints the positive number entered.
+while True:
+    number = int(input("Enter a positive number: "))
+    if number >= 0:
+        break
+print("The number you entered is:", number)
