@@ -1,3 +1,4 @@
+# Christian Lira - Winter 2023
 # Store the secret word
 secret_word = "apple"
 
