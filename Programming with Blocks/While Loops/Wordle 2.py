@@ -2,7 +2,7 @@
 import random
 
 # Define a list of possible words
-words = ["apple", "banana", "cherry", "orange", "watermelon", "mango"]
+words = ['synergy', 'leverage', 'ROI', 'scalable', 'disruptive', 'innovative', 'actionable', 'optimization', 'efficiency', 'monetization']
 
 # Choose a random word from the list
 secret_word = random.choice(words)
