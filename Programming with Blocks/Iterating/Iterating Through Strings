@@ -1,0 +1,18 @@
+#Christian Lira - Winter 2023
+#The following Program asks the user to input their favorite letter and then using a pre-code word prints the user favorite letter in uppercase.
+
+favorite_letter = input("What is your favorite letter? ")
+
+word = input("Enter a word: ")
+# a pneumoconiosis caused by inhalation of very fine silicate or quartz dust.
+
+for x, letter in enumerate(word):
+    if letter == favorite_letter:
+        print(letter.upper(), end=" ") 
+       
+    else:
+        print(letter.lower(), end=" ")
+
+
+for x, letter in enumerate(word):
+    print(f"The letter at index {x} is {letter}")
