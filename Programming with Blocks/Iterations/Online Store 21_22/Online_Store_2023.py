@@ -1,8 +1,7 @@
 # Christian Lira - Winter 2023
-
-
 # Define items and their prices
 items = {
+
     "milk": 2.50,
     "bread": 1.25,
     "juice": 5,
@@ -84,3 +83,10 @@ while True:
         
     else:
         print("Invalid option")
+
+# Add indexes for the items and be able to use it in the cart. add the prices with correct formating. 
+# be able to use index to remove item. 
+
+
+
+
