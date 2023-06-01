@@ -1,0 +1,21 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+Through all the semester I had the opportunity to see the effectiveness of functions and how they help to mantain a cleaner and more reusable code. aswell coding by function provides the codde to be more readable and understandable for any external to the  original programing.
+
+
+2. In your judgment, what is the value of test functions?
+
+Overall, the value of test functions lies in their ability to provide a standardized framework for evaluating and comparing optimization algorithms.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+
+To improve the troubleshooting process, one thing to do is to maintain a comprehensive and up-to-date documentation of the codebase. This documentation should include details about the program's architecture, design choices, key modules or components, and any known issues or challenges. Having this documentation readily available can provide valuable insights into the system and aid in understanding the codebase, identifying potential problem areas, and troubleshooting effectively.
+
+Additionally, it is beneficial to adopt a systematic and organized approach to troubleshooting, documenting the steps taken, hypotheses tested, and the results obtained during the process. This helps in maintaining a clear record of the troubleshooting journey and can serve as a reference for future debugging scenarios or similar issues.
